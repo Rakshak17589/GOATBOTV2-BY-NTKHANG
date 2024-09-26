@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
+<img src="https://ibb.co/NrzM3G8" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> UKH BOT - Bot Chat Messenger</h1>
 <p align="center">
 <img src="./snake.svg" width="500">
